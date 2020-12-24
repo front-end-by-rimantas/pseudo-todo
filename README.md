@@ -14,10 +14,10 @@ Site published at https://front-end-by-rimantas.github.io/19-grupe-portfolio/
 Design: [React theme five](https://react.theme-land.com/theme-five)
 
 ## Project features
-  - Node.js
-  - validations
-  - Jest tests
-  - code quality
+-  Node.js
+-  validations
+-  Jest tests
+-  code quality
 
 ## Authors
 [Rimantas](https://github.com/belauzas)
