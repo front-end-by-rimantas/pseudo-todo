@@ -4,9 +4,8 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-
 # Portfolio
-### 19 group portfolio website project
+*19 group portfolio website project*
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
@@ -14,12 +13,11 @@ Site published at https://front-end-by-rimantas.github.io/19-grupe-portfolio/
 
 Design: [React theme five](https://react.theme-land.com/theme-five)
 
-
 ## Project features
-- Node.js
-- validations
-- Jest tests
-- code quality
+  - Node.js
+  - validations
+  - Jest tests
+  - code quality
 
 ## Authors
 [Rimantas](https://github.com/belauzas)
