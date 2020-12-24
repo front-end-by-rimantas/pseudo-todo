@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest ",
+    "test:coverage": "jest --coverage",
     "test:ci": "jest --ci"
   },
   "author": "Rimantas Belovas",
