@@ -5,9 +5,9 @@
     "main": "index.js",
     "scripts": {
         "dev": "npx prettier --write .",
-        "test": "jest --watchAll",
-        "test:coverage": "jest --coverage",
-        "test:ci": "jest"
+        "test": "jest",
+        "test-all": "jest --watchAll",
+        "test:coverage": "jest --coverage"
     },
     "author": "Rimantas Belovas",
     "license": "MIT",
