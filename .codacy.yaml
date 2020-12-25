@@ -19,3 +19,4 @@ exclude_paths:
     - 'benchmarks/**/*'
     - '**.min.js'
     - '**/tests/**'
+baseIndentLevel: 4
