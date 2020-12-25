@@ -1,4 +1,3 @@
-// const { describe, test, expect } = require('jest');
 const Math = require('./Math');
 
 describe('Sum function is working', () => {
