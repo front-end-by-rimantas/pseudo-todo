@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "dev": "npx prettier --write .",
-        "test": "jest ",
+        "test": "jest --watchAll",
         "test:coverage": "jest --coverage",
         "test:ci": "jest --ci"
     },
